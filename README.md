@@ -93,6 +93,9 @@ See `DATA_SOURCES.md` for exactly what was retrieved for each, and what was not.
 
 ## Results
 
+![Share of claims supported outright ranges from 74% to 17% across the five papers](reviews/fig_cross_paper_strength.png)
+
+
 106 claims adjudicated across the five papers. Counts are computed from the committed
 `claims_*.csv` files, not transcribed from the reports.
 

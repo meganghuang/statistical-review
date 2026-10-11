@@ -24,6 +24,7 @@ standard way to miss that *n* counted cells instead of animals.
 |---|---|
 | `skill/statistical-review/SKILL.md` | The rule set: 11 sections, numbered rules, verdict rubric, self-review checklist |
 | `skill/statistical-review/kernel.py` | Helper functions auto-loaded with the skill |
+| `skill/paper-batch-review/` | The orchestration pattern that produced this repo: bundle, dispatch, collect, export scripts, publish |
 | `agent/STAT_REVIEWER.md` | The reviewer agent profile and its input/output contract |
 | `reviews/<paper>/` | One worked review per test case: report, machine-readable verdict table, figures |
 | `DATA_SOURCES.md` | Exact provenance of every paper and dataset, including what could not be obtained |
